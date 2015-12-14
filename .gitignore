@@ -16,6 +16,9 @@ project/plugins/project/
 .scala_dependencies
 .worksheet
 
+# Idea-IDE specific
+.idea/*
+
 # =========================
 # Operating System Files
 # =========================
